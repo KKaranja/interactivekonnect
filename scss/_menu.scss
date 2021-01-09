@@ -89,7 +89,7 @@
       }
 
       &.active > a {
-        color: white;
+        color: #007cba;
         // border-bottom: 2px solid #fff;
       }
     }
@@ -102,7 +102,7 @@
       @include transition-ease;
 
       &:hover {
-        color: white;
+        color: #007cba;
       }
     }
   }
