@@ -49,8 +49,8 @@
 
 .menu-btn__burger {
   position: absolute;
-  right: 0;
-  top: 0.5rem;
+  right: 60px;
+  top: 50px;
   width: 28px;
   height: 3px;
   background: #fff;
